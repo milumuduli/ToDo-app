@@ -1,0 +1,5 @@
+.container-fluid {
+    background-image: url("/public/todo-back.jpg");
+    background-size: cover;
+    height: 100vh;
+}
